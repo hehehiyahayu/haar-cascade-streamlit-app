@@ -76,6 +76,7 @@ def main():
                 break
 
             # Digunakan untuk memberhentikan kamera dan window yang menampilkan hasil kamera.
+            # Tombole yang digunakan yaitu ESC
             k = cv2.waitKey(30) & 0xff
             if k == 27:
                 break
