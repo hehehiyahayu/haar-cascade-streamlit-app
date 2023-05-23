@@ -7,7 +7,7 @@ Tugas Besar Mata Kuliah Pengolahan Citra Digital
 
 2. Melakukan scan objek menggunakan kamera.
 
-## Cara menjalankan aplikasi:
+## Cara Menjalankan Aplikasi:
 
 1. Cara impor proyek aplikasi:
 
